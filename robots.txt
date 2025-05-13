@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ycomompha.bestproductonlinestore.com/ycomompha.txt
